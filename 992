@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<title>Melhore Sua Saúde</title>
+	</head>
+	<body>
+	
+			<nav class="navbar navbar-default navbar-fixed-top">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<a class="navbar-brand" href="index.html">Melhore Sua Saúde</a>
+					</div>
+					<ul class="navbar-right nav navbar-nav">
+						<li><a class="navbar-link" href="sobre.html">Sobre</a></li>
+						<li><a class="navbar-link" href="inscreva-se.html">Inscreva-se</a></li>
+					</ul>
+				</div>
+			</nav>
+			
+			<section class="container" style="margin-top: 50px!important;">
+				<div class="page-header">
+					<h2>Aprenda a viver melhor e com mais qualidade</h2>
+					<p>Descubra como mudar sua vida e seja mais feliz</p>
+				</div>
+				
+				<br><img src="assets/imagens/capa.jpg" class="img-responsive" /><br>
+				
+				<article class="row">
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+				</article>
+				
+				<article class="row">
+				
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="thumbnail">
+							<img src="assets/imagens/thumbnail.jpg" />
+							<div class="caption">
+								<h3>Título do Post</h3>
+								<p>Descrição do post mostrando apenas uma prévia do conteúdo.</p>
+								<a href="#" class="btn btn-primary">Ler mais</a>
+							</div>
+						</div>
+					</div>
+					
+				</article>
+				
+				<ul class="pagination">
+					<li><a href="index.html">1</a>
+					<li><a href="#">2</a>
+					<li><a href="#">3</a>
+				</ul>
+				
+			</section>
+			
+			<div  class="bg-primary" style="padding-top: 60px; padding-bottom: 40px;">
+				<p class="text-center">&copy; Melhore Sua Saúde - Todos os Direitos Reservados</p>
+			</div>
+	
+	</body>
+</html>

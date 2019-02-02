@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<title>Melhore Sua Saúde</title>
+	</head>
+	<body>
+	
+			<nav class="navbar navbar-default navbar-fixed-top">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<a class="navbar-brand" href="index.html">Melhore Sua Saúde</a>
+					</div>
+					<ul class="navbar-right nav navbar-nav">
+						<li><a class="navbar-link" href="sobre.html">Sobre</a></li>
+						<li><a class="navbar-link" href="inscreva-se.html">Inscreva-se</a></li>
+					</ul>
+				</div>
+			</nav>
+			
+			<section class="container" style="margin-top: 50px!important;">
+				<div class="page-header">
+					<h2>Inscreva-se e receba conteúdo diariamente</h2>
+					<p>Lembre de cuidar sempre da sua saúde, inscreva-se</p>
+				</div>
+				
+				<div class="form-group" style="width: 450px; margin-top: 50px;">
+					<label>Digite seu e-mail</label>
+					<input class="form-control" placeholder="Seu email para melhorar sua saúde" />
+					<br>
+					<button class="btn btn-primary">
+						Enviar
+					</button>
+				</div>
+				
+			</section>
+			
+			<div  class="bg-primary" style="padding-top: 60px; padding-bottom: 40px; position: fixed; left: 0; bottom: 0; width: 100%;">
+				<p class="text-center">&copy; Melhore Sua Saúde - Todos os Direitos Reservados</p>
+			</div>
+			
+	</body>
+</html>
